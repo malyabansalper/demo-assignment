@@ -1,0 +1,12 @@
+
+Commands to use :
+
+Build the Project: npm run build
+
+Run Linting: npm run lint
+
+Run Unit Tests: npm test
+
+Run Tests with Code Coverage: npm run test:coverage
+
+Pre-Build (Optional): npm run prebuild
