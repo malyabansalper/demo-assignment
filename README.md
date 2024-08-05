@@ -1,2 +1,2 @@
-# binaryVeda-assignment
+# demo-assignment
 Created with CodeSandbox
